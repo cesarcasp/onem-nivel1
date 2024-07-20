@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_63ya1hPgHCf_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">SOLUCIONARIO NIVEL 1 - ETAPA I.E</langstring>
+        </title>
+        <description>
+          <langstring xml:lang="x-none">PROF. CÉSAR SILVA PACHERRES</langstring>
+        </description>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="SOLUCIONARIO_NIVEL_1_-_ETAPA_I.E_ORG">
+    <organization identifier="SOLUCIONARIO_NIVEL_1_-_ETAPA_I.E_ORG">
+      <title>SOLUCIONARIO NIVEL 1 - ETAPA I.E</title>
+      <item identifier="SOLUCIONARIO_NIVEL_1_-_ETAPA_I.E_SCO" isvisible="true" identifierref="__63ya1hPgHCf_course_id_RES">
+        <title>SOLUCIONARIO NIVEL 1 - ETAPA I.E</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__63ya1hPgHCf_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="story_content/6S10GFzzsxI_80_DX1440_DY1440.swf" />
+      <file href="mobile/6S10GFzzsxI_80_DX1440_DY1440_CX899_CY277.png" />
+      <file href="story_content/Shape5qzcWsucuut.swf" />
+      <file href="story_content/video_5h5JLxeISF3_22_56_720x384.mp4" />
+      <file href="mobile/video_5h5JLxeISF3_22_56_720x384.jpg" />
+      <file href="story_content/Shape6ibqqDZIF9c.swf" />
+      <file href="story_content/video_5tgyC9KQSpE_22_56_720x392.mp4" />
+      <file href="mobile/video_5tgyC9KQSpE_22_56_720x392.jpg" />
+      <file href="story_content/Shape6LnzEuQoPOO.swf" />
+      <file href="story_content/video_5zHAOK3QkIB_22_56_720x384.mp4" />
+      <file href="mobile/video_5zHAOK3QkIB_22_56_720x384.jpg" />
+      <file href="story_content/Shape63GNrwODmKZ.swf" />
+      <file href="story_content/video_6UzwZCDaV3T_22_56_720x384.mp4" />
+      <file href="mobile/video_6UzwZCDaV3T_22_56_720x384.jpg" />
+      <file href="story_content/Shape6VGExvufaFn.swf" />
+      <file href="story_content/video_5owArQ2VOt7_22_56_720x384.mp4" />
+      <file href="mobile/video_5owArQ2VOt7_22_56_720x384.jpg" />
+      <file href="story_content/Shape67fdnSj426t.swf" />
+      <file href="story_content/video_5gW3SeCMlOr_22_56_720x384.mp4" />
+      <file href="mobile/video_5gW3SeCMlOr_22_56_720x384.jpg" />
+      <file href="story_content/Shape5kvM3VKSaXH.swf" />
+      <file href="story_content/video_6Z5uFZ4rfvb_22_56_720x384.mp4" />
+      <file href="mobile/video_6Z5uFZ4rfvb_22_56_720x384.jpg" />
+      <file href="story_content/Shape5rCtNaiHJW8.swf" />
+      <file href="story_content/video_5jw9yX9JRNn_22_56_720x384.mp4" />
+      <file href="mobile/video_5jw9yX9JRNn_22_56_720x384.jpg" />
+      <file href="story_content/Shape6F4oK5Ag89Y.swf" />
+      <file href="story_content/video_661h4hL2tHx_22_56_720x384.mp4" />
+      <file href="mobile/video_661h4hL2tHx_22_56_720x384.jpg" />
+      <file href="story_content/Shape5zNNGwPjXsO.swf" />
+      <file href="story_content/video_6Gdgj5TVxRs_22_56_720x384.mp4" />
+      <file href="mobile/video_6Gdgj5TVxRs_22_56_720x384.jpg" />
+      <file href="meta.xml" />
+      <file href="story_content/FontFactory.swf" />
+      <file href="story_content/fonts.swf" />
+      <file href="mobile/6W1Kl26Glo4.png" />
+      <file href="story_content/logo.swf" />
+      <file href="story_content/frame.xml" />
+      <file href="story_content/user.js" />
+      <file href="story.swf" />
+      <file href="story_content/frame.swf" />
+      <file href="story_content/slides/6XfYaQ4WB3f.swf" />
+      <file href="story_content/slides/5tEX2rHQu7F.swf" />
+      <file href="story_content/slides/6fZemZmQtI9.swf" />
+      <file href="story_content/slides/6M1JDBe0gAw.swf" />
+      <file href="story_content/slides/69ZZiJK16kr.swf" />
+      <file href="story_content/slides/6B29DjX9V4o.swf" />
+      <file href="story_content/slides/6EpQiD3y7vi.swf" />
+      <file href="story_content/slides/6a5mtsdtVvN.swf" />
+      <file href="story_content/slides/6YzKagfAbk2.swf" />
+      <file href="story_content/slides/5aSvdW0bJDD.swf" />
+      <file href="story_content/slides/6Gd8ImQ2tfh.swf" />
+      <file href="story_content/data.swf" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5aSvdW0bJDD.js" />
+      <file href="html5/data/js/5tEX2rHQu7F.js" />
+      <file href="html5/data/js/69ZZiJK16kr.js" />
+      <file href="html5/data/js/6a5mtsdtVvN.js" />
+      <file href="html5/data/js/6B29DjX9V4o.js" />
+      <file href="html5/data/js/6EpQiD3y7vi.js" />
+      <file href="html5/data/js/6fZemZmQtI9.js" />
+      <file href="html5/data/js/6Gd8ImQ2tfh.js" />
+      <file href="html5/data/js/6M1JDBe0gAw.js" />
+      <file href="html5/data/js/6XfYaQ4WB3f.js" />
+      <file href="html5/data/js/6YzKagfAbk2.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/app.min.js" />
+      <file href="html5/lib/stylesheets/main.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="story.html" />
+      <file href="story_flash.html" />
+      <file href="story_html5.html" />
+      <file href="analytics-frame.html" />
+      <file href="story_content/blank.html" />
+      <file href="story_content/story.js" />
+      <file href="index_lms.html" />
+      <file href="index_lms_html5.html" />
+      <file href="index_lms_flash.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/AICCFunctions.js" />
+      <file href="lms/API.js" />
+      <file href="lms/APIConstants.js" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/Configuration.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/lms.js" />
+      <file href="lms/LMSAPI.js" />
+      <file href="lms/NONEFunctions.js" />
+      <file href="lms/SCORM2004Functions.js" />
+      <file href="lms/SCORMFunctions.js" />
+      <file href="lms/UtilityFunctions.js" />
+    </resource>
+  </resources>
+</manifest>
